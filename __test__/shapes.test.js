@@ -1,4 +1,4 @@
-const {Circle, Triangle, Square} = require("./shapes")
+const {Circle, Triangle, Square} = require("../lib/shapes")
 //start tests for circle
 describe('Circle', () => {
     test("render SVG for red circle", () => {
@@ -26,7 +26,7 @@ describe('Triangle', () => {
 //test for square
 describe('Square', () => {
     test("render SVG for red square", () => {
-        const svgExpectation = `<rect x="100" y="100" width="100" height="100" fill="$red" />
+        const svgExpectation = `<rect x="100" y="100" width="100" height="100" fill="red" />
         `
         const square = new Square()
         square.setColor("red")
