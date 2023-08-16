@@ -2,7 +2,13 @@
 
 ## Description
 
-svg logo generator.
+It sometimes can be tough creating nice, visually appealing logo. If you'd like a basic logo, look no further than this SVG Logo Generator!
+
+### Screenshots
+
+![circle example](./examples/image.png)
+![square example](./examples/image2.png)
+![triangle example](./examples/image3.png)
 
 ## Table of Contents
 
@@ -14,6 +20,11 @@ svg logo generator.
 ## Usage
 
 create a logo with this svg logo generator.
+Before getting started, run npm i to ensure all required dependencies are installed.
+To start the application, run 'node index.js'
+After this, answer the series of user prompts.
+Check the userLogo.SVG file to view the new generated logo!
+Enjoy!
 
 ## License
 
