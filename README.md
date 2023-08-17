@@ -40,6 +40,6 @@ jest
 
 ## Questions
 
-github username: Walter-Conwell
-email: walterdanteconwelljr@gmail.com
-video link: https://drive.google.com/file/d/1qeTTFTZZj85pUeA6Of9Ln2iRCS5Z6fQ4/view
+- github username: Walter-Conwell
+- email: walterdanteconwelljr@gmail.com
+- video link: https://drive.google.com/file/d/1qeTTFTZZj85pUeA6Of9Ln2iRCS5Z6fQ4/view
