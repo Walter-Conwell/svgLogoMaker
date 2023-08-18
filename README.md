@@ -9,6 +9,8 @@ It sometimes can be tough creating nice, visually appealing logo. If you'd like 
 ![circle example](./examples/image.png)
 ![square example](./examples/image2.png)
 ![triangle example](./examples/image3.png)
+![image](https://github.com/Walter-Conwell/svgLogoMaker/assets/131832544/2d7fd6c4-4d4f-4ba6-be53-b8c3a4cade6f)
+
 
 ## Table of Contents
 
